@@ -1,0 +1,11 @@
+<html>
+<title>Practical 3.</title>
+ <body bgcolor = "lightblue">
+<h2>Image</h2>
+<h1>Atharv Jilladwar</h1>
+<h1>CS25014</h1>
+<h2>It's ROHIT SHARMA :-></h2>
+<img src="C:\Users\Atharv\Pictures\Screenshots\rohit.png">
+<a href = "https://www.google.com/search?gs_ssp=eJzj4tTP1TdISjdIyTVg9OIpys_ILFEozkgsyk0EAGIKCCI&q=rohit+sharma&oq=rohi&gs_lcrp=EgZjaHJvbWUqCggBEC4YsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyCggCEC4YsQMYgAQyBggDEEUYOTINCAQQLhiDARixAxiABDINCAUQLhiDARixAxiABDIHCAYQABiABDIKCAcQLhixAxiABDIQCAgQABiDARixAxiABBiKBTIKCAkQABixAxiABNIBCTgxODBqMGoxNagCCLACAfEFqMOJp4B9v03xBajDiaeAfb9N&sourceid=chrome&ie=UTF-8">Visit Hitman</a>
+</body>
+</html>
