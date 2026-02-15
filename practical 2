@@ -1,13 +1,12 @@
 <html>
 <title>Practical 3.</title>
  <body bgcolor = "lightblue">
-<h2>Image</h2>
-<h1>Atharv Jilladwar</h1>
-<h1>CS25014</h1>
-<h2><i><b><u>It's ROHIT SHARMA :-></u></b></i></h2>
-<p>The man with <b>jersey no. 45</b> ,having three double hundred in ODI cricket.<br>
-T20I World Cup Winning Captain,<u><b>Mumbai Cha RAJA</b></u>,<b>Father of Daddy Hundred</b>. Now Introducing <b><u>MR. ROHIT SHARMA</u></b>.</p>
-<img src="\rohit.png">
-<a href = "https://www.google.com/search?gs_ssp=eJzj4tTP1TdISjdIyTVg9OIpys_ILFEozkgsyk0EAGIKCCI&q=rohit+sharma&oq=rohi&gs_lcrp=EgZjaHJvbWUqCggBEC4YsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyCggCEC4YsQMYgAQyBggDEEUYOTINCAQQLhiDARixAxiABDINCAUQLhiDARixAxiABDIHCAYQABiABDIKCAcQLhixAxiABDIQCAgQABiDARixAxiABBiKBTIKCAkQABixAxiABNIBCTgxODBqMGoxNagCCLACAfEFqMOJp4B9v03xBajDiaeAfb9N&sourceid=chrome&ie=UTF-8">Visit Hitman</a>
+<h1 align = "center">Atharv Jilladwar</h1>
+<h1 align = "center">CS25014</h1>
+<h2><i><b><u>It's ROHIT SHARMA :-</u></b></i></h2>
+<p align = "center">The man with <b>jersey no. 45</b> ,having three double hundred in ODI cricket.<br>
+T20I World Cup Winning Captain , <u><b>Mumbai Cha RAJA</b></u> , <u><b>Father of Daddy Hundred</b></u> . Now Introducing <b><u>MR. ROHIT SHARMA</u></b>.</p>
+<img align = "center" src="C:\Users\Atharv\Pictures\Screenshots\rohit.png">
+<a href = "https://www.google.com/search?gs_ssp=eJzj4tTP1TdISjdIyTVg9OIpys_ILFEozkgsyk0EAGIKCCI&q=rohit+sharma&oq=rohi&gs_lcrp=EgZjaHJvbWUqCggBEC4YsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyCggCEC4YsQMYgAQyBggDEEUYOTINCAQQLhiDARixAxiABDINCAUQLhiDARixAxiABDIHCAYQABiABDIKCAcQLhixAxiABDIQCAgQABiDARixAxiABBiKBTIKCAkQABixAxiABNIBCTgxODBqMGoxNagCCLACAfEFqMOJp4B9v03xBajDiaeAfb9N&sourceid=chrome&ie=UTF-8">Explore More about Hitman</a>
 </body>
 </html>
