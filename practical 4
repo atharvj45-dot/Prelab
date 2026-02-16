@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>MY TABLE</title>
+</head>
+<body bgcolor="lightblue">
+
+    <h1><b>ODI STATS<b></h1>
+    <table border="1">
+        <tr>
+            <th>Sr no.</th>
+            <th>BATSMAN</th>
+            <th>RUNS</th>
+            <th>STRIKERATE</th>
+            <th>BEST SCORE</th>
+            <th>DUCKS</th>
+        </tr>
+        
+        <tr>
+            <td>1</td>
+            <td>Rohit Sharma</td>
+            <td>11577</td>
+            <td>92.8</td>
+            <td>264*</td>
+            <td>16</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Virat Kohli</td>
+            <td>14797</td>
+            <td>93.8</td>
+            <td>183*</td>
+            <td>18</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Sachin Tendulkar</td>
+            <td>18426</td>
+            <td>86.2</td>
+            <td>200*</td>
+            <td>20</td>
+        </tr>
+<tr>
+            <td>4</td>
+            <td>Ricky Ponting</td>
+            <td>13704</td>
+            <td>80.4</td>
+            <td>164</td>
+            <td>20</td>
+        </tr>
+
+
+            </table>
+
+</body>
+</html>
