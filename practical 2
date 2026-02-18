@@ -3,10 +3,56 @@
  <body bgcolor = "lightblue">
 <h1 align = "center">Atharv Jilladwar</h1>
 <h1 align = "center">CS25014</h1>
-<h2><i><b><u>It's ROHIT SHARMA :-</u></b></i></h2>
-<p align = "center">The man with <b>jersey no. 45</b> ,having three double hundred in ODI cricket.<br>
+<h2><u>Mumbai Indians 🏏</u></h2>
+
+<!-- Ordered List -->
+<h3>Top Players</h3>
+<ol>
+  <li><mark>Rohit Sharma</mark></li>
+  <li>Jasprit Bumrah</li>
+  <li>Suryakumar Yadav</li>
+  <li>Hardik Pandya</li>
+</ol>
+
+<!-- Unordered List -->
+<h3>Team Achievements</h3>
+<ul>
+  <li>5 Times IPL Champions</li>
+  <li>Strong Batting Lineup</li>
+  <li>Excellent Bowling Attack</li>
+  <li>Huge Fan Base</li>
+</ul>
+
+<!-- Description List -->
+<h3>About Mumbai Indians</h3>
+<dl>
+  <dt><b>Captain</b></dt>
+  <dd><mark>Rohit Sharma</mark> – One of the most successful IPL captains.</dd>
+
+  <dt><b>Owner</b></dt>
+  <dd>Owned by Reliance Industries.</dd>
+
+  <dt><b>Established</b></dt>
+  <dd>Founded in 2008.</dd>
+</dl>
+
+<!-- Hyperlink (Paste your link inside href="") -->
+<a href="https://www.mumbaiindians.com/membership?utm_source=google&utm_medium=cpc&utm_campaign=Brand_Phrase&utm_source=google&utm_medium=clicks&utm_campaign=Google_MI_Search_Membership_BrandCore_Jan2026&gad_source=1&gad_campaignid=21057655390&gbraid=0AAAAACLWL61lD07xsC8RZFcLJBHrevzEF&gclid=CjwKCAiAwNDMBhBfEiwAd7ti1HZcGavHmOcVi88SG5bVa2lF6wID4DgiXzA4N86LpvyNnXzGBMvGfxoC4okQAvD_BwE">Click Here to Know More About Mumbai Indians</a>
+
+<p>
+<b><u>Slogan:</u></b><br>
+<i><b>Play Bold, Play Blue.</b></i><br>
+<i>Duniya Hila Denge Hum</i>
+</p>
+
+<h2><i><b><u>About Captain ROHIT SHARMA :-</u></b></i></h2>
+<p>The man with <b>jersey no. 45</b> ,having three double hundred in ODI cricket.<br>
 T20I World Cup Winning Captain , <u><b>Mumbai Cha RAJA</b></u> , <u><b>Father of Daddy Hundred</b></u> . Now Introducing <b><u>MR. ROHIT SHARMA</u></b>.</p>
+<marquee beheviour="scroll" direction = "left">
+<h1><b>HITMAN   HITMAN   HITMAN   HITMAN   </b></h1>
+</marquee>
 <img align = "center" src="C:\Users\Atharv\Pictures\Screenshots\rohit.png">
 <a href = "https://www.google.com/search?gs_ssp=eJzj4tTP1TdISjdIyTVg9OIpys_ILFEozkgsyk0EAGIKCCI&q=rohit+sharma&oq=rohi&gs_lcrp=EgZjaHJvbWUqCggBEC4YsQMYgAQyDQgAEAAY4wIYsQMYgAQyCggBEC4YsQMYgAQyCggCEC4YsQMYgAQyBggDEEUYOTINCAQQLhiDARixAxiABDINCAUQLhiDARixAxiABDIHCAYQABiABDIKCAcQLhixAxiABDIQCAgQABiDARixAxiABBiKBTIKCAkQABixAxiABNIBCTgxODBqMGoxNagCCLACAfEFqMOJp4B9v03xBajDiaeAfb9N&sourceid=chrome&ie=UTF-8">Explore More about Hitman</a>
+
 </body>
 </html>
