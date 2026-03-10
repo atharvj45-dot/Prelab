@@ -1,0 +1,58 @@
+<html>
+<title>my resume</title>
+<head>
+</head>
+<body >
+<img src = "C:\Users\Atharv\Downloads\atharvpic.jpeg" height = "125px" width = "125px" align = "right">
+
+<h1 align = "center">RESUME</h1>
+<h2>NAME :- ATHARV JILLADWAR</h2>
+<h2>EMAIL :- atharvjilladwar@gmail.com</h2>
+<hr>
+<br>
+<br>
+<table border="1">
+        <tr>
+            <th>Sr no.</th>
+            <th>School/Collage</th>
+            <th>Qualification</th>
+            <th>Marks Secured</th>
+                    </tr>
+        
+        <tr>
+            <td>1</td>
+            <td>ERA english medium school.</td>
+            <td>10th</td>
+            <td>74.59%</td>
+            
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>BDP Jr Collage Parwa</td>
+            <td>12th</td>
+            <td>64.67%</td>
+                    </tr>
+        
+
+            </table><br>
+<h3 >Technical Skills : </h3>
+<ol>
+  <li><mark>Learning HTML</mark></li>
+  <li>MASTER IN C</li>
+  <li>STARTED LEARNING OOPS in C++</li>
+  
+</ol>
+<h3>PERSONAL DETAILS</h3>
+<ul>
+  <li>ATHARV GAJANAN JILLADWAR</li>
+  <li>atharvjilladwar@gmail.com</li>
+  <li>9922059995</li>
+  <li>NAGPUR</li>
+</ul>
+<hr>
+<h2>Place : Nagpur</h2>
+
+<h2 align = "right">Sign</h2>
+
+</body>
+</html>
